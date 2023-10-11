@@ -1,3 +1,3 @@
 package names
 
-var Joel = "Joel"
+var Kenobi = "Joel"

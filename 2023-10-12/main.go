@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(names.Joel)
+	fmt.Println(names.Kenobi)
 }
