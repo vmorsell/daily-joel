@@ -1,3 +1,4 @@
 package names
 
-var Kenobi = "Joel"
+
+var GitKenobi = "Joel"

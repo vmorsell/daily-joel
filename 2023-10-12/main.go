@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(names.Kenobi)
+	fmt.Println(names.GitKenobi)
 }
