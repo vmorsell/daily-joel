@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-
 	var name string
 
 	fmt.Println("what is your name?")
