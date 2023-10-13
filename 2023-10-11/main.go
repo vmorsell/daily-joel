@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	yes := "Jo"
-	fmt.Printf("%sel\n", yes)
+	yes := "J+=&o"
+	fmt.Printf("%qel\n", yes)
 }
