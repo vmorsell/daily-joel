@@ -1,3 +1,7 @@
+// Daily Joel 2023-10-19
+//
+// Variable declaration and initialization, variable scopes,
+// and variadic parameters.
 package main
 
 import (
