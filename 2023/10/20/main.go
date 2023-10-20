@@ -1,3 +1,6 @@
+// Daily Joel 2023-10-20
+//
+// Arrays and basic for loops.
 package main
 
 import (
