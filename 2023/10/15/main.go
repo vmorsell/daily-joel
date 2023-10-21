@@ -1,3 +1,6 @@
+// Daily Joel 2023-10-15
+//
+// Multiple parameters of the same type.
 package main
 
 import (

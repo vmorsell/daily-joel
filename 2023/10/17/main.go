@@ -1,3 +1,6 @@
+// Daily Joel 2023-10-17
+//
+// Named return values.
 package main
 
 import "fmt"

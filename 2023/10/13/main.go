@@ -1,3 +1,6 @@
+// Daily Joel 2023-10-13
+//
+// Sum of strings.
 package main
 
 import (
