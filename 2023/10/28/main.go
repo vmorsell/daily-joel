@@ -10,10 +10,10 @@ type Person struct {
 }
 
 func main() {
-	j := Person{}
-	setName("Joel", &j)
-	setNameWithoutEffect("Someone else", j)
-	fmt.Println(j.name)
+	p := Person{}
+	setName("Joel", &p)
+	setNameWithoutEffect("Someone else", p)
+	fmt.Println(p.name)
 }
 
 func setName(name string, p *Person) {
