@@ -10,10 +10,9 @@ import (
 func main() {
 	letters := []string{"J", "o", "e", "l", "\n"}
 	for {
-		if len(letters) == 0 {
-			break
+		if len(letters) > 0 {
+			fmt.Print(letters[0])
+			letters = letters[1:]
 		}
-		fmt.Print(letters[0])
-		letters = letters[1:]
 	}
 }
