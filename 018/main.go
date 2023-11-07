@@ -1,4 +1,4 @@
-// Daily Joel 2023-10-27
+// Daily Joel #18
 //
 // Structs.
 package main
