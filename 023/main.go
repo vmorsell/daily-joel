@@ -1,5 +1,4 @@
-// 2023-11-01
-//
+// Daily Joel #23
 // Appending to slices.
 package main
 
