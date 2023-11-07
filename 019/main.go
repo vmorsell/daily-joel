@@ -1,4 +1,4 @@
-// Daily Joel 2023-10-28
+// Daily Joel #19
 //
 // Passing structs to functions.
 package main
