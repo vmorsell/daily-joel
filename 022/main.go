@@ -1,5 +1,4 @@
 // Daily Joel #22
-//
 // Slices of slices.
 package main
 
