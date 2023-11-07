@@ -1,5 +1,4 @@
-// Daily Joel 2023-11-02
-//
+// Daily Joel #24
 // Breaking loops.
 package main
 
