@@ -1,5 +1,4 @@
 // Daily Joel #20
-//
 // Methods.
 package main
 
