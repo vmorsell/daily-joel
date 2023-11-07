@@ -1,5 +1,4 @@
-// Daily Joel 2023-11-04
-//
+// Daily Joel #26
 // Mutating maps.
 package main
 
