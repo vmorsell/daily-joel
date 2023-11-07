@@ -1,3 +1,3 @@
-module github.com/vmorsell/joel
+module github.com/vmorsell/daily-joel
 
 go 1.21.1
