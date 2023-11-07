@@ -1,5 +1,4 @@
 // Daily Joel #18
-//
 // Structs.
 package main
 
