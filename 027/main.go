@@ -1,5 +1,4 @@
-// Daily Joel 2023-11-05
-//
+// Daily Joel #27
 // Maps and zero values.
 package main
 
