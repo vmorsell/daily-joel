@@ -1,5 +1,4 @@
 // Daily Joel #10
-//
 // Variable declaration and initialization, variable scopes,
 // and variadic parameters.
 package main

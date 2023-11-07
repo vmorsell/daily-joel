@@ -1,5 +1,4 @@
 // Daily Joel #4
-//
 // Sum of strings.
 package main
 

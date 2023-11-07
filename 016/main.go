@@ -1,5 +1,4 @@
 // Daily Joel #16
-//
 // Pointers.
 package main
 

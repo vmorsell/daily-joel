@@ -1,5 +1,4 @@
 // Daily Joel #9
-//
 // Variable swapping.
 package main
 

@@ -1,5 +1,4 @@
 // Daily Joel #2
-//
 // Format and print.
 package main
 

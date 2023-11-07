@@ -1,5 +1,4 @@
 // Daily Joel #14
-//
 // Defer.
 package main
 

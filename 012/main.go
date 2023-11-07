@@ -1,5 +1,4 @@
 // Daily Joel #12
-//
 // Slices and range form for loops.
 
 package main

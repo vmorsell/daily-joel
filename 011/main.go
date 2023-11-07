@@ -1,5 +1,4 @@
 // Daily Joel #11
-//
 // Arrays and basic for loops.
 package main
 

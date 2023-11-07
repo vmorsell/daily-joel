@@ -1,5 +1,4 @@
 // Daily Joel #13
-//
 // Switch.
 package main
 

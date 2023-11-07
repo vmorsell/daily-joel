@@ -1,5 +1,4 @@
 // Daily Joel #8
-//
 // Named return values.
 package main
 

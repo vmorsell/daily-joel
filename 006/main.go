@@ -1,5 +1,4 @@
 // Daily Joel #6
-//
 // Multiple parameters of the same type.
 package main
 

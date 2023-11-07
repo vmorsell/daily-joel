@@ -1,5 +1,4 @@
 // Daily Joel #5
-//
 // Multiple parameters.
 package main
 

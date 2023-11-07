@@ -1,5 +1,4 @@
 // Daily Joel #15
-//
 // Stacking defers.
 package main
 

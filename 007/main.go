@@ -1,5 +1,4 @@
 // Daily Joel #7
-//
 // Multiple results.
 package main
 

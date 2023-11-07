@@ -1,5 +1,4 @@
 // Daily Joel #3
-//
 // Imports.
 package main
 
