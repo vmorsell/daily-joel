@@ -1,5 +1,4 @@
 // Daily Joel #21
-//
 // Slices and zero values.
 package main
 
