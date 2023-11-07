@@ -1,5 +1,4 @@
 // Daily Joel #19
-//
 // Passing structs to functions.
 package main
 
