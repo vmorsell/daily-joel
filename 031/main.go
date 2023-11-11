@@ -19,19 +19,20 @@ func main() {
 	ik := 0
 
 	//a for loop with the intended function to print each value by printing the lowest key value for each iteration
-
-	//	!indexes are not behaving as i would like them to!
 	//	¯\_(ツ)_/¯
 	for {
+		if len(letters) == 0 {
+			break
+		}
 
 		//I need the key value pairs as an array to use the slice.Min func.
 		//I also need this array to be recalculated for each iteration of the surrounding for loop.
+
 		keys := make([]int, len(letters))
 		for key := range letters {
 			keys[is] = key
 			is++
 		}
-
 		//assigning variable i to the lowest element in keys slice
 		ik = slices.Min(keys)
 
@@ -43,10 +44,10 @@ func main() {
 
 		//resetting our keys slice by giving it a nil value
 		keys = nil
-
+		//resetting the indexes
+		is = 0
+		ik = 0
 		//break if letters is empty
-		if len(letters) == 0 {
-			break
-		}
+
 	}
 }
