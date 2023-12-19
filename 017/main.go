@@ -1,5 +1,4 @@
 // Daily Joel #17
-//
 // Forever loops.
 package main
 
